@@ -1,6 +1,6 @@
 {
-  "name": "@benawad/expo-mixpanel-analytics",
-  "version": "0.1.7",
+  "name": "scriptspry/expo-mixpanel-analytics",
+  "version": "0.1.8",
   "description": "Mixpanel integration for use with React Native apps built on Expo.",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benawad/expo-mixpanel-analytics.git"
+    "url": "git+https://github.com/scriptspry/expo-mixpanel-analytics.git"
   },
   "keywords": [
     "react",
