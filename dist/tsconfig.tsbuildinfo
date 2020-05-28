@@ -1,0 +1,586 @@
+{
+  "program": {
+    "fileInfos": {
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88",
+        "signature": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376",
+        "signature": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d",
+        "signature": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4",
+        "signature": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe",
+        "signature": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/globals.d.ts": {
+        "version": "1a7945b127b0150adb9f5461ae1a80989b61e7adebc9f5e752ca8ea005b5d09b",
+        "signature": "1a7945b127b0150adb9f5461ae1a80989b61e7adebc9f5e752ca8ea005b5d09b"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/legacy-properties.d.ts": {
+        "version": "d35a9cb1495a5344ba5678783dd3acf817b39019725e0221d4f8f4335358fa5e",
+        "signature": "d35a9cb1495a5344ba5678783dd3acf817b39019725e0221d4f8f4335358fa5e"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/batchedbridge.d.ts": {
+        "version": "51a997c9f91edc69fc4216a19e02161e5babeb8e8ecff99b49010ef2d38c9575",
+        "signature": "51a997c9f91edc69fc4216a19e02161e5babeb8e8ecff99b49010ef2d38c9575"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/devtools.d.ts": {
+        "version": "ae1a867799ca7265542b119e6e8f958651926a7c927d6f4177a44ea637f350e0",
+        "signature": "ae1a867799ca7265542b119e6e8f958651926a7c927d6f4177a44ea637f350e0"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/prop-types/index.d.ts": {
+        "version": "84af1dcde6fe6d8f4b235efd6b95630bb383b0c8a34e0a80e4aa4813111302b6",
+        "signature": "84af1dcde6fe6d8f4b235efd6b95630bb383b0c8a34e0a80e4aa4813111302b6"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/global.d.ts": {
+        "version": "d5b58524cdaac378daa8228fabc96d6cf6fba4b8940512c7b06f18da47fec7ba",
+        "signature": "d5b58524cdaac378daa8228fabc96d6cf6fba4b8940512c7b06f18da47fec7ba"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/csstype/index.d.ts": {
+        "version": "78d19dae9617caa7189f9c9ae535ab635e3befc605d92055d71fc88f366a8b91",
+        "signature": "78d19dae9617caa7189f9c9ae535ab635e3befc605d92055d71fc88f366a8b91"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/index.d.ts": {
+        "version": "5ce793a69baa03299c5f4c0f0ee4985afc6527b7409f7f54fd89f97f64bf6aec",
+        "signature": "5ce793a69baa03299c5f4c0f0ee4985afc6527b7409f7f54fd89f97f64bf6aec"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/index.d.ts": {
+        "version": "82d79aad3c7044c2373f0a2a988a0ec01bc54f94c636e8ebbb6f60c66fd5a88e",
+        "signature": "82d79aad3c7044c2373f0a2a988a0ec01bc54f94c636e8ebbb6f60c66fd5a88e"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/buffer/index.d.ts": {
+        "version": "818f832a8e29ca7e128dcde810a9ff8cbc3754010474e29fff0a5ed95adae032",
+        "signature": "818f832a8e29ca7e128dcde810a9ff8cbc3754010474e29fff0a5ed95adae032"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/src/index.ts": {
+        "version": "1596217774674095931376c40bf737377bf0ed49182229ba315c5bbe1f705b1d",
+        "signature": "266a10e723d191c2076902134552052a1de22296c644f0c7034b2b4acca9cad3"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/react-native-maps/index.d.ts": {
+        "version": "3bab567ceb532f6498c8e59637212278750bb2f4c54bdc1fdadbd581d198266c",
+        "signature": "3bab567ceb532f6498c8e59637212278750bb2f4c54bdc1fdadbd581d198266c"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/fbemitter/index.d.ts": {
+        "version": "97529c4f2e717c9d900b8c48be0f1a9fb90fd666d04af60e5410fbe9b9a98cef",
+        "signature": "97529c4f2e717c9d900b8c48be0f1a9fb90fd666d04af60e5410fbe9b9a98cef"
+      },
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/expo/index.d.ts": {
+        "version": "b7c5c80f5e827893f8bd125ab0a5cfea6e2b8ac6975aab84ede54ee9127c67d9",
+        "signature": "b7c5c80f5e827893f8bd125ab0a5cfea6e2b8ac6975aab84ede54ee9127c67d9"
+      },
+      "/users/prasanth/node_modules/@types/node/inspector.d.ts": {
+        "version": "7e49dbf1543b3ee54853ade4c5e9fa460b6a4eca967efe6bf943e0c505d087ed",
+        "signature": "7e49dbf1543b3ee54853ade4c5e9fa460b6a4eca967efe6bf943e0c505d087ed"
+      },
+      "/users/prasanth/node_modules/@types/node/base.d.ts": {
+        "version": "39daac3cc4e13d9f1031c4b208c4cd10cb206782a381e71dbaa2353d170b41b4",
+        "signature": "39daac3cc4e13d9f1031c4b208c4cd10cb206782a381e71dbaa2353d170b41b4"
+      },
+      "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts": {
+        "version": "1de0ff6200b92798a5aef43f57029c79dbf69932037dee1c007fdd2c562db258",
+        "signature": "1de0ff6200b92798a5aef43f57029c79dbf69932037dee1c007fdd2c562db258"
+      }
+    },
+    "options": {
+      "sourceMap": true,
+      "removeComments": true,
+      "noImplicitAny": false,
+      "strict": true,
+      "strictNullChecks": true,
+      "strictFunctionTypes": true,
+      "noImplicitThis": true,
+      "alwaysStrict": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noImplicitReturns": true,
+      "noFallthroughCasesInSwitch": true,
+      "skipLibCheck": true,
+      "composite": true,
+      "target": 1,
+      "module": 5,
+      "outDir": "/Users/prasanth/Projects/JS/expo-mixpanel-analytics/dist",
+      "experimentalDecorators": true,
+      "jsx": 2,
+      "lib": [
+        "lib.dom.d.ts",
+        "lib.es2015.d.ts",
+        "lib.es2016.d.ts"
+      ],
+      "allowSyntheticDefaultImports": true,
+      "moduleResolution": 2,
+      "noEmitHelpers": true,
+      "importHelpers": true,
+      "esModuleInterop": true,
+      "declaration": true,
+      "configFilePath": "/Users/prasanth/Projects/JS/expo-mixpanel-analytics/tsconfig.json"
+    },
+    "referencedMap": {
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es5.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.dom.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/globals.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/legacy-properties.d.ts": [
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/index.d.ts",
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/batchedbridge.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/devtools.d.ts": [
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/devtools.d.ts",
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/prop-types/index.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/global.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/csstype/index.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/index.d.ts": [
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/csstype/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/prop-types/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/global.d.ts",
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/index.d.ts": [
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/prop-types/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/globals.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/legacy-properties.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/batchedbridge.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/devtools.d.ts",
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/buffer/index.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/src/index.ts": [
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/index.d.ts",
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/react-native-maps/index.d.ts": [
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/index.d.ts",
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/fbemitter/index.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/expo/index.d.ts": [
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/react-native-maps/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/fbemitter/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/index.d.ts",
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/node_modules/@types/node/inspector.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/node_modules/@types/node/base.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/inspector.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es5.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.dom.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/globals.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/legacy-properties.d.ts": [
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/index.d.ts",
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/index.d.ts": [
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/prop-types/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/globals.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/legacy-properties.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/batchedbridge.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/devtools.d.ts",
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/expo/index.d.ts": [
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/react-native-maps/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/fbemitter/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/index.d.ts",
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/react-native-maps/index.d.ts": [
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/index.d.ts",
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/batchedbridge.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/devtools.d.ts": [
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/devtools.d.ts",
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/prop-types/index.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/index.d.ts": [
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/csstype/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/prop-types/index.d.ts",
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/global.d.ts",
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/global.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/csstype/index.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/buffer/index.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/fbemitter/index.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/node_modules/@types/node/inspector.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/node_modules/@types/node/base.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts",
+        "/users/prasanth/node_modules/@types/node/inspector.d.ts",
+        "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/users/prasanth/node_modules/@types/node/base.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es5.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2016.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.dom.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/globals.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/legacy-properties.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/batchedbridge.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/devtools.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/prop-types/index.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/global.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/csstype/index.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react/index.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/react-native/index.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/buffer/index.d.ts",
+      [
+        "/users/prasanth/projects/js/expo-mixpanel-analytics/src/index.ts",
+        [
+          {
+            "file": "/users/prasanth/projects/js/expo-mixpanel-analytics/src/index.ts",
+            "start": 135,
+            "length": 26,
+            "messageText": "Cannot find module 'react-native-device-info'.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "/users/prasanth/projects/js/expo-mixpanel-analytics/src/index.ts",
+            "start": 185,
+            "length": 16,
+            "messageText": "Cannot find module 'expo-constants'.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "/users/prasanth/projects/js/expo-mixpanel-analytics/src/index.ts",
+            "start": 245,
+            "length": 5,
+            "messageText": "This syntax requires an imported helper but module 'tslib' cannot be found.",
+            "category": 1,
+            "code": 2354
+          }
+        ]
+      ],
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/react-native-maps/index.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/fbemitter/index.d.ts",
+      "/users/prasanth/projects/js/expo-mixpanel-analytics/node_modules/@types/expo/index.d.ts",
+      "/users/prasanth/node_modules/@types/node/inspector.d.ts",
+      "/users/prasanth/node_modules/@types/node/base.d.ts",
+      "/users/prasanth/node_modules/@types/node/ts3.2/index.d.ts"
+    ]
+  },
+  "version": "3.4.3"
+}
