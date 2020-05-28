@@ -1,4 +1,5 @@
 import { Platform, Dimensions, AsyncStorage } from "react-native";
+import { getApplicationName, getBundleId, getReadableVersion } from 'react-native-device-info';
 import Constants from "expo-constants";
 import { Buffer } from "buffer";
 
@@ -37,9 +38,9 @@ export class ExpoMixpanelAnalytics {
 
     Constants.getWebViewUserAgentAsync().then(userAgent => {
       this.userAgent = userAgent;
-      this.appName = Constants.manifest.name;
-      this.appId = Constants.manifest.slug;
-      this.appVersion = Constants.manifest.version;
+      this.appName = getApplicationName();
+      this.appId = getBundleId();
+      this.appVersion = getReadableVersion();
       this.screenSize = `${width}x${height}`;
       this.deviceName = Constants.deviceName;
       if (isIosPlatform && Constants.platform && Constants.platform.ios) {
